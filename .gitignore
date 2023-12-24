@@ -1,1 +1,5 @@
 .idea/
+*.DS_Store
+user_agent.txt
+.env
+test.py
