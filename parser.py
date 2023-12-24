@@ -105,7 +105,7 @@ class FilmsParser:
 
     @property
     def _base_url(self) -> str:
-        return self._base_url
+        return self.__base_url
 
     @_base_url.setter
     def _base_url(self, data: tuple):
